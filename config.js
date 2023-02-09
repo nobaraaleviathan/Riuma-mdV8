@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','3516093315']
 //-------------
 
 
@@ -79,7 +79,7 @@ global.APIKeys = {
 
    global.sudo = ['447405935355']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['447405935355','393278169630']
 
    //---------------------------------------------------------------------
    
@@ -97,7 +97,7 @@ global.APIKeys = {
 
    global.linkbuttid1 = 'ɪɴꜱᴛᴀɢʀᴀᴍ' 
    //-------------
-   global.butturl1 = 'https://www.instagram.com/alienalfa/'
+   global.butturl1 = 'https://www.instagram.com/ahmed_zi_z_o/'
    
    //---------------------------------------------------------------------
 
